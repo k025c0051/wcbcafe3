@@ -204,6 +204,11 @@ img {
     margin-top: 6rem;
     color: #fff;
 }
+/*menu*/
+/*---------------------------------------------------*/
+.cover-menu{
+    background-image: url(../images/cover-menu-s.webp);
+}
 /* デスクトップ版
 -------------------------------------------------- */
 @media (min-width: 800px) {
